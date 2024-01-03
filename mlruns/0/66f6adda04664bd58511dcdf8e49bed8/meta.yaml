@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/mlruns/0/66f6adda04664bd58511dcdf8e49bed8/artifacts
+end_time: 1704241290635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66f6adda04664bd58511dcdf8e49bed8
+run_name: dazzling-hen-842
+run_uuid: 66f6adda04664bd58511dcdf8e49bed8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704241289041
+status: 4
+tags: []
+user_id: leahludwig

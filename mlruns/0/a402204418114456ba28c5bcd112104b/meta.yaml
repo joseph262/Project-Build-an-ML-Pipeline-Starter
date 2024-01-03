@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a402204418114456ba28c5bcd112104b/artifacts
+end_time: 1704241875458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a402204418114456ba28c5bcd112104b
+run_name: mysterious-ram-165
+run_uuid: a402204418114456ba28c5bcd112104b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704241816596
+status: 3
+tags: []
+user_id: leahludwig

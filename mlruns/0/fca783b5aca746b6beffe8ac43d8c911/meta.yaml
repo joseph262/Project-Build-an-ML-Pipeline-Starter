@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fca783b5aca746b6beffe8ac43d8c911/artifacts
+end_time: 1704242232570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fca783b5aca746b6beffe8ac43d8c911
+run_name: omniscient-bee-511
+run_uuid: fca783b5aca746b6beffe8ac43d8c911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704242227356
+status: 4
+tags: []
+user_id: leahludwig

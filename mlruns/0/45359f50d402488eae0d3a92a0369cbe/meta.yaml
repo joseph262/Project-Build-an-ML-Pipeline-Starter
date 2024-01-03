@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/mlruns/0/45359f50d402488eae0d3a92a0369cbe/artifacts
+end_time: 1704241875577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45359f50d402488eae0d3a92a0369cbe
+run_name: receptive-fawn-924
+run_uuid: 45359f50d402488eae0d3a92a0369cbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704241813422
+status: 3
+tags: []
+user_id: leahludwig
