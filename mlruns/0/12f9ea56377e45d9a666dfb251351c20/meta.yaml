@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/12f9ea56377e45d9a666dfb251351c20/artifacts
+end_time: 1704332712632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12f9ea56377e45d9a666dfb251351c20
+run_name: intelligent-lark-212
+run_uuid: 12f9ea56377e45d9a666dfb251351c20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704332669417
+status: 3
+tags: []
+user_id: leahludwig

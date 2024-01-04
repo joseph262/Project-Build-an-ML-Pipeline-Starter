@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a9363b6ca12f4cea829d210778bb0dc2/artifacts
+end_time: 1704324869683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9363b6ca12f4cea829d210778bb0dc2
+run_name: kindly-snipe-517
+run_uuid: a9363b6ca12f4cea829d210778bb0dc2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704324814514
+status: 4
+tags: []
+user_id: leahludwig

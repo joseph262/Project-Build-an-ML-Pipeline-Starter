@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/76f098ece06148e585f7e47469527597/artifacts
+end_time: 1704324251279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76f098ece06148e585f7e47469527597
+run_name: delicate-perch-997
+run_uuid: 76f098ece06148e585f7e47469527597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704324161630
+status: 3
+tags: []
+user_id: leahludwig

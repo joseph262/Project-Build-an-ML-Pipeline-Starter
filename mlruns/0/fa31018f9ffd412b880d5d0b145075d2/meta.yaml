@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/fa31018f9ffd412b880d5d0b145075d2/artifacts
+end_time: 1704325405898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa31018f9ffd412b880d5d0b145075d2
+run_name: exultant-gull-286
+run_uuid: fa31018f9ffd412b880d5d0b145075d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704325310376
+status: 4
+tags: []
+user_id: leahludwig

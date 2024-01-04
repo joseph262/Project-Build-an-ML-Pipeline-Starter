@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5431eaaf6cf346b581c6c68551635b4e/artifacts
+end_time: 1704329470987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5431eaaf6cf346b581c6c68551635b4e
+run_name: intrigued-dove-377
+run_uuid: 5431eaaf6cf346b581c6c68551635b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704329469791
+status: 4
+tags: []
+user_id: leahludwig

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e57adcca1f3c437aa88664f51840054f/artifacts
+end_time: 1704332600751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e57adcca1f3c437aa88664f51840054f
+run_name: traveling-conch-194
+run_uuid: e57adcca1f3c437aa88664f51840054f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704332587011
+status: 3
+tags: []
+user_id: leahludwig

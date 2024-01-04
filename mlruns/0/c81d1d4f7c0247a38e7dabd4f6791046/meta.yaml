@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c81d1d4f7c0247a38e7dabd4f6791046/artifacts
+end_time: 1704331290473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c81d1d4f7c0247a38e7dabd4f6791046
+run_name: debonair-hen-149
+run_uuid: c81d1d4f7c0247a38e7dabd4f6791046
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704331287246
+status: 3
+tags: []
+user_id: leahludwig

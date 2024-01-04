@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f4315cd27c37424c97fefc440577c56f/artifacts
+end_time: 1704333350546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4315cd27c37424c97fefc440577c56f
+run_name: thoughtful-snipe-612
+run_uuid: f4315cd27c37424c97fefc440577c56f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704333247898
+status: 3
+tags: []
+user_id: leahludwig

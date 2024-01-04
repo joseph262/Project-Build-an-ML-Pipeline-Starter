@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e945e4984ba741dcaf0ef31e1dc68d30/artifacts
+end_time: 1704328660931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e945e4984ba741dcaf0ef31e1dc68d30
+run_name: powerful-bear-189
+run_uuid: e945e4984ba741dcaf0ef31e1dc68d30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704328619339
+status: 4
+tags: []
+user_id: leahludwig

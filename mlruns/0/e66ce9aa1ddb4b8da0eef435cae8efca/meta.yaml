@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e66ce9aa1ddb4b8da0eef435cae8efca/artifacts
+end_time: 1704329098755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e66ce9aa1ddb4b8da0eef435cae8efca
+run_name: worried-bug-857
+run_uuid: e66ce9aa1ddb4b8da0eef435cae8efca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704329061526
+status: 4
+tags: []
+user_id: leahludwig

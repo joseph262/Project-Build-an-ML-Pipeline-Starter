@@ -1,0 +1,57 @@
+{
+    "os": "macOS-13.0-x86_64-i386-64bit",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-01-04T01:45:17.236193",
+    "startedAt": "2024-01-04T01:45:16.693685",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/multirun/2024-01-03/19-44-29/1/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/joseph262/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "59c9db3c23380bebc7a4acfa067f464b785a66ab"
+    },
+    "email": null,
+    "root": "/Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter",
+    "host": "MacBook-Air-2.lan",
+    "username": "leahludwig",
+    "executable": "/Users/leahludwig/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "total": 228.27386474609375,
+        "used": 8.224662780761719
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

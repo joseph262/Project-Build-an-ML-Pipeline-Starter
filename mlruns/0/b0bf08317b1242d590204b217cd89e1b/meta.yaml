@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b0bf08317b1242d590204b217cd89e1b/artifacts
+end_time: 1704327868085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0bf08317b1242d590204b217cd89e1b
+run_name: dapper-gull-948
+run_uuid: b0bf08317b1242d590204b217cd89e1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704327758526
+status: 3
+tags: []
+user_id: leahludwig

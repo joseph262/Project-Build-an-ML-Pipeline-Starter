@@ -1,0 +1,13 @@
+2024-01-03 18:34:12,765 Minimum price: 10, Maximum price: 350
+2024-01-03 18:34:12,782 Preparing sklearn pipeline
+2024-01-03 18:34:12,782 Fitting
+2024-01-03 18:34:35,933 Scoring
+2024-01-03 18:34:35,998 Score: 0.5339406885517419
+2024-01-03 18:34:35,999 MAE: 33.565065789473685
+2024-01-03 18:34:35,999 Exporting model
+Traceback (most recent call last):
+  File "/Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 297, in <module>
+    hd(args)
+  File "/Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 94, in hd
+    with tempfile.TemporaryDirectory() as temp_dir:
+NameError: name 'tempfile' is not defined

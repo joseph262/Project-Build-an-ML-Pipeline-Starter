@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d63c8695c1b14de49dafddc2d70aea99/artifacts
+end_time: 1704328480332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d63c8695c1b14de49dafddc2d70aea99
+run_name: vaunted-frog-887
+run_uuid: d63c8695c1b14de49dafddc2d70aea99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704328445547
+status: 4
+tags: []
+user_id: leahludwig

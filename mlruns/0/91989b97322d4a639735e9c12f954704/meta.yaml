@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/91989b97322d4a639735e9c12f954704/artifacts
+end_time: 1704324251447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91989b97322d4a639735e9c12f954704
+run_name: lyrical-bee-18
+run_uuid: 91989b97322d4a639735e9c12f954704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704324090681
+status: 3
+tags: []
+user_id: leahludwig

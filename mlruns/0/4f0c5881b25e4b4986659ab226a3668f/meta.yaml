@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/leahludwig/Project-Build-an-ML-Pipeline-Starter/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4f0c5881b25e4b4986659ab226a3668f/artifacts
+end_time: 1704327867900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f0c5881b25e4b4986659ab226a3668f
+run_name: wistful-gnat-79
+run_uuid: 4f0c5881b25e4b4986659ab226a3668f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704327763810
+status: 3
+tags: []
+user_id: leahludwig
