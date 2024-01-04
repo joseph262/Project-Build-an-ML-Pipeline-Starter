@@ -101,6 +101,12 @@ modeling -> random_forest -> n_estimators to 10 and etl->min_price to 50:
   -P hydra_options="modeling.random_forest.n_estimators=10 etl.min_price=50"
 ```
 
+## Visualize the pipeline
+
+<img width="1470" alt="Screenshot 2024-01-03 at 8 14 55 PM" src="https://github.com/joseph262/Project-Build-an-ML-Pipeline-Starter/assets/153666891/12606e15-e5f7-42c5-9516-230f9b48945d">
+
+
+
 ### Pre-existing components
 In order to simulate a real-world situation, we are providing you with some pre-implemented
 re-usable components. While you have a copy in your fork, you will be using them from the original
